@@ -1,3 +1,6 @@
 jupyter-book
 numpy
 datascience
+jupyterlite-sphinx
+# Until https://github.com/executablebooks/sphinx-book-theme/pull/558 is merged
+git+https://github.com/yuvipanda/sphinx-book-theme@launch-in-jupyterlite
